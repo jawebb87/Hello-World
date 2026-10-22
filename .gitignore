@@ -1,0 +1,13 @@
+**/hello
+*.exe
+*.dll
+*.class
+*.beam
+*.o
+*.ali
+**/nimcache/
+examples/typescript/hello.js
+**/.zig-cache/
+**/zig-out/
+examples/ook/hello.bf
+__pycache__/
